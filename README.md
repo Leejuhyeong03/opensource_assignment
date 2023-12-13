@@ -12,5 +12,5 @@
 
 ## 3. 참고 레퍼런스
 > 외부 환경공단 API
-> 
-> 미세먼지 오픈소스 프로그램
+> 오픈소스 프로젝트 pypubdata: https://github.com/gomgom/pypubdata
+

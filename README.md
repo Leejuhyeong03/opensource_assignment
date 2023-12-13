@@ -12,5 +12,22 @@
 
 ## 3. 참고 레퍼런스
 > 외부 환경공단 API
+> 
 > 오픈소스 프로젝트 pypubdata: https://github.com/gomgom/pypubdata
 
+
+---------------------------------------
+
+
+> ## 4. PROTECT 사용법
+> 프로그램 다운로드 전 공공데이터 포탈에서 개인 API를 발급받으시는 것을 추천드립니다.
+> pypubdata의 pdairp 패키지와 geopy를 사용하기 위해 다음과 같은 과정이 필요합니다.
+```
+For Windows: C:\Users\sample> pip install pypubdata
+For Linux/Unix: sample@ip-123-12-3-45:~$ sudo pip3 install pypubdata
+```
+```
+pip install pdarip
+pip install geopy
+```
+> ## 4. PROTECT 사용법
